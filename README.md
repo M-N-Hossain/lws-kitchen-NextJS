@@ -1,6 +1,3 @@
-Here is the README file for the project:
-
-```markdown
 # LWS Kitchen - Food Blog and Recipes
 
 LWS Kitchen is a modern food blog and recipe platform built with Next.js. This platform allows users to explore a variety of recipes, discover new categories, and get inspired for their next culinary adventure. It features custom data integration with `categories.json` and `recipes.json` to showcase recipes and categories dynamically.
