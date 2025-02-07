@@ -123,7 +123,7 @@ export default Category;
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/lws-kitchen.git
+   git clone https://github.com/M-N-Hossain/lws-kitchen-NextJS
    ```
 
 2. Install dependencies:
