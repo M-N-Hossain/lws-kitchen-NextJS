@@ -128,7 +128,7 @@ export default Category;
 
 2. Install dependencies:
    ```bash
-   cd lws-kitchen
+   cd lws-kitchen-NextJS
    npm install
    ```
 
@@ -139,9 +139,6 @@ export default Category;
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser to view the app.
 
-## Deployment
-
-Deploy the project on platforms like Vercel for a seamless production experience. Simply connect your GitHub repository and follow the platform's instructions.
 
 ## Live Demo
 
