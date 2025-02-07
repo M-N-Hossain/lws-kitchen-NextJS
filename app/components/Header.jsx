@@ -26,9 +26,9 @@ export default function Header() {
             </Link>
           </li>
           <li>
-            <a href="./recipes.html" class="hover:text-orange-500">
+            <Link href="/recipes.html" class="hover:text-orange-500">
               Latest Recipes
-            </a>
+            </Link>
           </li>
         </ul>
         <div class="flex items-center space-x-4">
